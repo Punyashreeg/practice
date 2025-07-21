@@ -15,4 +15,7 @@ int main() {
             break;
         case 4:
             printf("Thursday");
-            break;
+         break;
+	    default:
+            printf("Invalid day");
+    }
